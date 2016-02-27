@@ -1,3 +1,4 @@
 # ImageMosaic
-Harris Corner Detector
+Harris Corner Detector.
+
 MFC Based Implementation.
