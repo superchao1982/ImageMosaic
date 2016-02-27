@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageMosaic">
+</Property><Property Name="Solution File" Value="D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic.sln">
+</Property><Property Name="User Options File" Value="D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic.suo">
+</Property><Property Name="Date" Value="2013年6月27日">
+</Property><Property Name="Time" Value="14:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImageMosaic.sln" Description="File successfully backed up as D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="ImageMosaic.suo" Description="File successfully backed up as D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic.suo.old">
+</Event><Event ErrorLevel="0" Project="ImageMosaic" Source="ImageMosaic\ImageMosaic.vcproj" Description="Converting project file 'D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic\ImageMosaic.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ImageMosaic" Source="ImageMosaic\ImageMosaic.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ImageMosaic" Source="ImageMosaic\ImageMosaic.vcproj" Description="Done converting to new project file 'D:\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic\ImageMosaic.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ImageMosaic" Source="ImageMosaic\ImageMosaic.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImageMosaic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImageMosaic.sln" Description="Converted">
+</Event></UpgradeLog>

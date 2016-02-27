@@ -1,0 +1,28 @@
+﻿Build started 2/27/2016 11:58:54 AM.
+     1>Project "F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic\ImageMosaic.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ImageMosaic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ImageMosaic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AftRegDlg.cpp DWT.cpp HarrisCorners.cpp ImageMosaic.cpp ImageMosaicDlg.cpp
+         ImageMosaicDlg.cpp
+         ImageMosaic.cpp
+         HarrisCorners.cpp
+         DWT.cpp
+         AftRegDlg.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\ImageMosaic.res" ImageMosaic.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\Debug\ImageMosaic.exe" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\Debug\ImageMosaic.pdb" /MAP /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\Debug\ImageMosaic.lib" /MACHINE:X86 /SAFESEH Debug\ImageMosaic.res
+         Debug\AftRegDlg.obj
+         Debug\DWT.obj
+         Debug\HarrisCorners.obj
+         Debug\ImageMosaic.obj
+         Debug\ImageMosaicDlg.obj
+         Debug\stdafx.obj
+         ImageMosaic.vcxproj -> F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\Debug\ImageMosaic.exe
+     1>Done Building Project "F:\wxy学校电脑清空了\实验室的前辈们的资料\图像组毕业生清单\刘磊-毕业清单\软件源代码\multi_image mosaic\ImageMosaic\ImageMosaic\ImageMosaic.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.21
